@@ -1,0 +1,20 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Alguns comandos:
+
+pwd
+cat
+openssl sha1
+mkdir
+rmdir
+eval $(ssh-agent -s)
+ssh-keygen -t ed25519 -C
+
+git add *
+git commit -m "frase"
+git status
+
+
+git config --global --unset user.email #modificador configs git
+git config --global user.email #setar config
